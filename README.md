@@ -1,0 +1,4 @@
+This project involved the development of an E-Ticketing system that provides users with comprehensive access to a database of movies, including detailed information on actors, actresses, producers, and their associated films. The system was designed using the MVC (Model-View-Controller) design pattern, ensuring a clear separation of concerns and a scalable architecture.
+
+The backend was developed in C#, utilizing the Entity Framework ORM (Object-Relational Mapping) to facilitate smooth and efficient data access and manipulation. This approach ensured seamless integration with an MSSQL database, allowing for robust data storage and retrieval.
+The Entity Framework was particularly instrumental in managing complex relationships between entities such as movies, actors, and producers, thereby streamlining the development process and enhancing overall system performance.
